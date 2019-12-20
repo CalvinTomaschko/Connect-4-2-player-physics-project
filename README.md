@@ -5,7 +5,7 @@ An initial attempt at a friend’s challenge, a psuedo-physics based game of con
 
 # Demo gif/images
 
-Insert gifs
+<img src="images/Connect4_physicsExample.gif" height = "550" alt="Moving Gif of gameplay">
 
 
 # Demo site 
